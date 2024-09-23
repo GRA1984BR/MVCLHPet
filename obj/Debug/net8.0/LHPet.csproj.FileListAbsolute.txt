@@ -28,3 +28,4 @@ C:\Users\grazi\Desktop\CodBack_MVC_Arquivos_da_Atividade_Aluno\LHPet\obj\Debug\n
 C:\Users\grazi\Desktop\CodBack_MVC_Arquivos_da_Atividade_Aluno\LHPet\obj\Debug\net8.0\LHPet.pdb
 C:\Users\grazi\Desktop\CodBack_MVC_Arquivos_da_Atividade_Aluno\LHPet\obj\Debug\net8.0\LHPet.genruntimeconfig.cache
 C:\Users\grazi\Desktop\CodBack_MVC_Arquivos_da_Atividade_Aluno\LHPet\obj\Debug\net8.0\ref\LHPet.dll
+C:\Users\grazi\Desktop\CodBack_MVC_Arquivos_da_Atividade_Aluno\LHPet\obj\Debug\net8.0\LHPet.sourcelink.json
